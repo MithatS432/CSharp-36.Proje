@@ -1,2 +1,2 @@
-# CSharp-36.Proje
+# C#-36.Proje
 Dosya İşlemleri (File I ve O)2
