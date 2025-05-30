@@ -1,0 +1,3 @@
+C# öğreniyorum.
+Dosya işlemleri çok önemli.
+Bu örnekte StreamWriter kullandık.
